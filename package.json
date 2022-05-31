@@ -1,0 +1,1 @@
+{"scripts":{"start":"node app.js"},"dependencies":{"@app-masters/hubstaff-node-client":"^2.0.4","express":"^4.18.1"}}
